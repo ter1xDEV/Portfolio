@@ -66,9 +66,7 @@
 - **Linux, Docker, AWS, Nginx**
 
 ### 📞 Контакты
-**Telegram:** [@ter1x_](https://t.me/ter1x_)  
-**Email:** ter1x.dev@gmail.com  
-**GitHub:** github.com/ter1x-dev
+**Discord:** ter1x_
 
 ### 💎 Почему выбирают меня?
 - ✅ **Качество** - Чистый и поддерживаемый код
@@ -147,9 +145,7 @@ Hello! I'm **TER1X** - Minecraft Tehnical developer with over 6 years of experie
 - **Linux, Docker, AWS, Nginx**
 
 ### 📞 Contacts
-**Telegram:** [@ter1x_](https://t.me/ter1x_)  
-**Email:** ter1x.dev@gmail.com  
-**GitHub:** github.com/ter1x-dev
+**Discord:** ter1x_
 
 ### 💎 Why Choose Me?
 - ✅ **Quality** - Clean and maintainable code
